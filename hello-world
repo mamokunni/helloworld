@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <ul>
+       <a href="animals.html"><li>Animals</li></a>
+        <li></li>
+    </ul>
+    <title>
+        Home
+    </title>
+    <body>
+        <h1>
+            Trenington Zoo
+        </h1>
+        <p>
+
+        </p>
+    </body>
+</html>
